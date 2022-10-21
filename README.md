@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# written by YoGalNora
+
 import os
 
 
